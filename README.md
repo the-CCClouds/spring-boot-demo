@@ -1,4 +1,9 @@
 <h1 align="center"><a href="https://github.com/xkcoding" target="_blank">Spring Boot Demo</a></h1>
+
+> 本项目基于 [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) 搬运，遵循其开源协议（MIT）。
+
+> 一个用来深度学习并实战 `spring boot` 的项目，包含很多 Spring Boot 的使用案例、各种模块组合、常见功能演示等。
+
 <p align="center">
   <a href="https://travis-ci.com/xkcoding/spring-boot-demo"><img alt="Travis-CI" src="https://travis-ci.com/xkcoding/spring-boot-demo.svg?branch=master"/></a>
   <a href="https://www.codacy.com/app/xkcoding/spring-boot-demo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=xkcoding/spring-boot-demo&amp;utm_campaign=Badge_Grade"><img alt="Codacy" src="https://api.codacy.com/project/badge/Grade/1f2e3d437b174bfc943dae1600332ec1"/></a>
